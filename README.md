@@ -23,22 +23,16 @@ cd RL-Quadcopter-2'
 
 2. Create and activate a new environment.
 
-'''
-conda create -n quadcop python=3.6 matplotlib numpy pandas keras-gpu
-source activate quadcop
-'''
+'conda create -n quadcop python=3.6 matplotlib numpy pandas keras-gpu
+source activate quadcop'
 
 3. Create an IPython kernel for the quadcop environment.
 
-'''
-python -m ipykernel install --user --name quadcop --display-name "quadcop"
-'''
+'python -m ipykernel install --user --name quadcop --display-name "quadcop"'
 
 4. Open the notebook.
 
-'''
-jupyter notebook Quadcopter_Project.ipynb
-'''
+'jupyter notebook Quadcopter_Project.ipynb'
 
 5. Before running code, change the kernel to match the quadcop environment by using the drop-down menu (Kernel > Change kernel > quadcop). Then, follow the instructions in the notebook.
 
