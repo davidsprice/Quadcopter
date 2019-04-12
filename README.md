@@ -20,14 +20,14 @@ Final Reward-Episode Plot :
 
 ~~~~
 git clone https://github.com/davidsprice/Quadcopter
-cd RL-Quadcopter-2
+cd Quadcopter
 ~~~~
 
 2. Create and activate a new environment.
 
 ~~~~
-conda create -n quadcop python=3.6 matplotlib numpy pandas keras-gpu
-source activate quadcop
+conda create -n quadcopter python=3.6 matplotlib numpy pandas keras-gpu
+source activate quadcopter
 ~~~~
 
 3. Create an [IPython kernel](https://ipython.readthedocs.io/en/stable/install/kernel_install.html) for the quadcopter environment.
