@@ -13,7 +13,7 @@ Continuous Control Task
 ## Final Result :
 Final Reward-Episode Plot :
 
-Final Reward-Episode Plot
+![](final_quadcopter_reward_plot.png)
 
 # Project Instructions
 1. Clone the repository and navigate to the downloaded folder.
