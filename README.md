@@ -19,7 +19,7 @@ Final Reward-Episode Plot
 1. Clone the repository and navigate to the downloaded folder.
 
 ~~~~
-git clone https://github.com/udacity/RL-Quadcopter-2.git
+git clone https://github.com/davidsprice/Quadcopter
 cd RL-Quadcopter-2
 ~~~~
 
@@ -30,7 +30,7 @@ conda create -n quadcop python=3.6 matplotlib numpy pandas keras-gpu
 source activate quadcop
 ~~~~
 
-3. Create an [IPython kernel] (https://ipython.readthedocs.io/en/stable/install/kernel_install.html) for the quadcop environment.
+3. Create an [IPython kernel](https://ipython.readthedocs.io/en/stable/install/kernel_install.html) for the quadcopter environment.
 
 ~~~~
 python -m ipykernel install --user --name quadcop --display-name "quadcop"
