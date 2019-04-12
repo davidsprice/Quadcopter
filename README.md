@@ -2,7 +2,7 @@
 Quadcopter project for the Advanced Machine Learning course of Udacity's Machine Learning nano-degree.
 
 ## Target :
-Training an RL agent(quadcopter controller) to learn to fly & perform the defined tasks in direction to maximise reward.
+Training a reinforcement learning (RL) agent (quadcopter controller) to learn to fly and perform the defined tasks in direction to maximise reward.
 
 ## Algorithm Class :
 Deep Deterministic Policy Gradients (DDPG)
@@ -18,10 +18,8 @@ Final Reward-Episode Plot
 # Project Instructions
 1. Clone the repository and navigate to the downloaded folder.
 
-'''
-git clone https://github.com/udacity/RL-Quadcopter-2.git
-cd RL-Quadcopter-2
-'''
+'git clone https://github.com/udacity/RL-Quadcopter-2.git
+cd RL-Quadcopter-2'
 
 2. Create and activate a new environment.
 
