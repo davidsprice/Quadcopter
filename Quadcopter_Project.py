@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Project: Train a Quadcopter How to Fly
+# # Project: Train a Quadcopter How to Fly using DDOG techniques!
 # 
 # Design an agent to fly a quadcopter, and then train it using a reinforcement learning algorithm of your choice! 
 # 
