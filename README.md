@@ -1,5 +1,5 @@
 # Quadcopter
-Quadcopter project for the Advanced Machine Learning course of Udacity's Machine Learning nanodegree.
+Quadcopter project for the Advanced Machine Learning course of Udacity's Machine Learning nano-degree.
 
 ## Target :
 Training a reinforcement learning (RL) agent (quadcopter controller) to learn to fly and perform the defined tasks in direction to maximise reward.
